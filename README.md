@@ -1,5 +1,5 @@
 
-# 🖼️ Lokeshwaran V - Gallery App
+# 🖼️ ELANGO M - Gallery App
 
 A beautifully crafted personal image gallery web app, built using **React**, **Vite**, **TypeScript**, and **Tailwind CSS**. This app allows users to browse and explore a collection of images in a smooth, responsive, and animated interface.
 
@@ -26,7 +26,7 @@ A beautifully crafted personal image gallery web app, built using **React**, **V
 
 ```
 
-lokeshvivek2511-gallery/
+elangom-gallery/
 ├── src/
 │   ├── components/
 │   │   ├── Gallery.tsx         # Main gallery component
@@ -57,8 +57,8 @@ lokeshvivek2511-gallery/
 ### 📥 Installation
 
 ```bash
-git clone https://github.com/lokeshvivek2511/lokeshvivek2511-gallery.git
-cd lokeshvivek2511-gallery
+git clone https://github.com/elango-mahendra/SnapStack.git
+cd SnapStack
 npm install
 ````
 
@@ -96,9 +96,9 @@ Just launch the app to see a stunning animated photo gallery. Add your image dat
 
 ## 📬 Contact
 
-* 📧 Email: [lokeshvlw2004@gmail.com](mailto:lokeshvlw2004@gmail.com)
-* 💼 LinkedIn: [linkedin.com/in/lokeshwaran-v-680827257](https://www.linkedin.com/in/lokeshwaran-v-680827257)
-* 💻 GitHub: [@lokeshvivek2511](https://github.com/lokeshvivek2511)
+* 📧 Email: [elangomahendran2003@gmail.com](mailto:elangomahendran2003@gmail.com)
+* 💼 LinkedIn: [linkedin.com/in/elango-mahendran](https://www.linkedin.com/in/elango-mahendran)
+* 💻 GitHub: [@elango-mahendra](https://github.com/elango-mahendra)
 
 ## 📝 License
 
@@ -106,7 +106,7 @@ This project is for educational and portfolio purposes. If you'd like to reuse o
 
 ---
 
-> Designed & developed with ❤️ by **Lokeshwaran V**
+> Designed & developed with ❤️ by **ELANGO M**
 
 
 
